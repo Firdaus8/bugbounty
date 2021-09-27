@@ -57,7 +57,7 @@ Self XSS, Login/Logout CSRF, CORS tanpa melampirkan bukti yang berakibat kepada 
 Hasil output dari tools seperti Nmap, SSL Scan, dan lainnya tidak diterima
 
 3. Social engineering
-Memanfaatkan phising/fraud diluar Bukalapak (email, sms, facebook messenger, whatsapp, dan lainnya)
+Memanfaatkan phising/fraud (email, sms, facebook messenger, whatsapp, dan lainnya)
 
 4. Open redirects
 Pada kasus tertentu, kami akan memproses jika risikonya tinggi. Misalnya mampu melakukan pencurian token
