@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Ngorder - Bug Bounty
 
-You can use the [editor on GitHub](https://github.com/ngorder/bugbounty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tidak ada gading yang tak retak, begitu pula teknologi tidak ada yang sempurna. Kami sangat menghargai kolaborasi dengan para pentester guna meningkatkan keamanan kami. Jika Anda dengan yakin telah menemukan celah keamanan dengan senang hati kami akan berdiskusi dan meresponsnya.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cakupan
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Semua konten yang terdapat pada domain berikut :
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- https://app.ngorder.id 
+- https://api.ngorder.id
+- Aplikasi Mobile Ngorder (android dan IoS)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Tata Cara Pelaporan
 
-### Jekyll Themes
+1. Tulis laporan 
+Anda tidak perlu menuliskan laporan pada file PDF, cukup tuliskan di badan email saja. Bagian-bagian yang wajib ada pada laporan adalah:
+```markdown
+Jenis celah keamanan yang ditemukan.
+Langkah-langkah singkat yang diperlukan untuk mereplikasi celah keamanan.
+Bukti atau Proof of Concept (PoC) yang dapat berbentuk gambar atau video. Jadikan sebagai lampiran email.
+Dampak yang dapat ditimbulkan akibat adanya celah keamanan ini.
+Saran / Remediasi dalam perbaikan celah keamanan.
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ngorder/bugbounty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2. Kirim ke security@team.ngorder.id
+3. Tunggu balasan
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
