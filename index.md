@@ -78,11 +78,11 @@ SPF, DKIM, dan DMARC yang hanya menggunakan teknik social engineering untuk eksp
 1. Tulis laporan 
 Anda tidak perlu menuliskan laporan pada file PDF, cukup tuliskan di badan email saja. Bagian-bagian yang wajib ada pada laporan adalah:
 ```markdown
-Jenis celah keamanan yang ditemukan.
-Langkah-langkah singkat yang diperlukan untuk mereplikasi celah keamanan.
-Bukti atau Proof of Concept (PoC) yang dapat berbentuk gambar atau video. Jadikan sebagai lampiran email.
-Dampak yang dapat ditimbulkan akibat adanya celah keamanan ini.
-Saran / Remediasi dalam perbaikan celah keamanan.
+- Jenis celah keamanan yang ditemukan.
+- Langkah-langkah singkat yang diperlukan untuk mereplikasi celah keamanan.
+- Bukti atau Proof of Concept (PoC) yang dapat berbentuk gambar atau video. Jadikan sebagai lampiran email.
+- Dampak yang dapat ditimbulkan akibat adanya celah keamanan ini.
+- Saran / Remediasi dalam perbaikan celah keamanan.
 ```
 
 2. Kirim ke security@team.ngorder.id
