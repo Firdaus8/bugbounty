@@ -85,6 +85,8 @@ Anda tidak perlu menuliskan laporan pada file PDF, cukup tuliskan di badan email
 - Saran / Remediasi dalam perbaikan celah keamanan.
 ```
 
-2. Kirim ke security@team.ngorder.id
+2. Kirim ke **security@team.ngorder.id**
 3. Tunggu balasan
 
+## Rewards
+Kami akan memberikan rewards dan sertifikat maksimal 90 (Sembilan Puluh) hari setelah Laporan Bug Bounty telah valid memenuhi kriteria dan selesai diverifikasi.
