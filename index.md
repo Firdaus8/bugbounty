@@ -10,6 +10,7 @@ Semua konten yang terdapat pada domain berikut :
 - https://app.ngorder.id 
 - https://api.ngorder.id
 - Aplikasi Mobile Ngorder (android dan IoS)
+- Storefront Ngorder
 ```
 
 ## Rule 
@@ -68,7 +69,10 @@ Contoh: HSTS, cookie flags, X-Frame-Options, X-XSS-Protection, dll
 6. DDoS
 Kecuali DoS pada level aplikasi dan eksploitnya mudah
 
-7. Clickjacking
+7. Rate Limiting
+Pada kasus tertentu, kami akan memproses jika risikonya tinggi.
+
+8. Clickjacking
 Kesalahan pada konfigurasi SPF, DKIM, dan DMARC.
 SPF, DKIM, dan DMARC yang hanya menggunakan teknik social engineering untuk eksploitasinya
 ```
